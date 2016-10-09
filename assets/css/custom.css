@@ -1,0 +1,19 @@
+#connect-leap {
+    visibility: hidden;
+}
+
+#firstnote {
+    visibility: hidden;
+}
+
+#greeting {
+    visibility: hidden;
+}
+
+#button {
+    visibility: visible;
+}
+
+#greeting2 {
+    visibility: hidden;
+}
