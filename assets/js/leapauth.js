@@ -6,10 +6,6 @@ Leap.loop({
             if (!label) {
                 label = document.createElement('label');
                 document.body.appendChild(label);
-                /**
-                 * Here we set the label to show the hand type
-                 */
-                label.innerHTML = hand.type + " hand";
                 hand.data('label', label);
             }
             var handMesh = hand.data('riggedHand.mesh');
@@ -29,10 +25,6 @@ Leap.loop({
             document.body.removeChild(label);
             hand.data({ label: undefined });
         }
-    })
-    .use('playback', {
-        recording: './assets/js/left-or-right-77fps.json.lz',
-        timeBetweenLoops: 1000
     });
 
 riggedHandPlugin = Leap.loopController.plugins.riggedHand;
@@ -53,7 +45,8 @@ function greeting() {
     if (verify === true) {
         document.getElementById("greeting").innerHTML = "Welcome home.";
     }
-    document.body.style.backgroundColor = "#B86E00";
+    document.body.style.backgroundColor = "#EFF6F5";
+    document.body.style.color = "#333";
     document.getElementById("firstnote").style.visibility = "hidden";
     document.getElementById("greeting").style.visibility = "visible";
     document.getElementById("button").style.visibility = "hidden";

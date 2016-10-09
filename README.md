@@ -4,7 +4,7 @@
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/issues.svg?style=flat-square)](https://github.com/fvcproductions/leap-auth-home/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/pulls.svg?style=flat-square)](https://github.com/fvcproductions/leap-auth-home/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-> Check it out at [jakethedogkeyhand.com](http://jakethedogkeyhand.com)!
+> Check it out at [jakethedogkeyhand.com](http://jakethedogkeyhand.com) or [fvcproductions.github.io/leap-auth-home](http://fvcproductions.github.io/leap-auth-home)
 >
 > GitHub Repo is at [fvcproductions/leap-auth-home](https://github.com/fvcproductions/leap-auth-home)
 
