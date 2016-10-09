@@ -47,42 +47,15 @@ function greeting() {
     }
     document.body.style.backgroundColor = "#EFF6F5";
     document.body.style.color = "#333";
-    document.getElementById("firstnote").style.visibility = "hidden";
+    document.body.style.color = "#333";
+    document.getElementById("firstnote").innerHTML = "Success!";
     document.getElementById("greeting").style.visibility = "visible";
     document.getElementById("button").style.visibility = "hidden";
 }
 
 function auth_check(total) {
-    if (combination_cnt <= totalcombination) {
-        switch (combination_cnt) {
-            case 1:
-                if (total === 8) {
-                    break;
-                } else if (total === 9) {
-                    break;
-                } else {
-                    return;
-                }
-            case 2:
-                if (total === 1) {
-                    break;
-                } else if (total === 3) {
-                    break;
-                } else {
-                    return;
-                }
-            case 3:
-                if (total === 6) {
-                    break;
-                } else if (total === 7) {
-                    verify = true;
-                    break;
-                } else {
-                    return;
-                }
-        }
-        combination_cnt++;
-    } else {
+    if (total === 7) {
+        verify = true;
         greeting();
         authed = true;
     }
