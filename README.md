@@ -2,11 +2,11 @@
 
 # Jake The Dog Key Hand | Security Corp
 
-[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/issues.svg?style=flat-square)](https://github.com/fvcproductions/leap-auth-home/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/pulls.svg?style=flat-square)](https://github.com/fvcproductions/leap-auth-home/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/issues.svg?style=flat-square)](https://github.com/FrancesCoronel/leap-auth-home/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/leap-auth-home/pulls.svg?style=flat-square)](https://github.com/FrancesCoronel/leap-auth-home/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-> Check it out at [jakethedogkeyhand.com](http://jakethedogkeyhand.com) or [fvcproductions.github.io/leap-auth-home](http://fvcproductions.github.io/leap-auth-home)
+> Check it out at [jakethedogkeyhand.com](http://jakethedogkeyhand.com) or [francescoronel.github.io/leap-auth-home](http://francescoronel.github.io/leap-auth-home)
 >
-> GitHub Repo is at [fvcproductions/leap-auth-home](https://github.com/fvcproductions/leap-auth-home)
+> GitHub Repo is at [fvcproductions/leap-auth-home](https://github.com/FrancesCoronel/leap-auth-home)
 
 ## Inspiration
 
@@ -45,17 +45,17 @@ Optimizing the UI, extending password combination capabilities (multiple numbers
 
 > To get started...
 
-- 🍴 Fork this repo [here](https://github.com/fvcproductions/leap-auth-home#fork-destination-box)
+- 🍴 Fork this repo [here](https://github.com/FrancesCoronel/leap-auth-home#fork-destination-box)
 - 🔨 Hack away
 - 😊 Add yourself as a contributor
-- 🔧 Make a pull request [here](https://github.com/fvcproductions/leap-auth-home/compare)
+- 🔧 Make a pull request [here](https://github.com/FrancesCoronel/leap-auth-home/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue [here](https://github.com/fvcproductions/leap-auth-home/issues)!
+- 😯 Create an issue [here](https://github.com/FrancesCoronel/leap-auth-home/issues)!
 
 ## Credits
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![Noltron000](https://avatars2.githubusercontent.com/u/19766927?v=3&s=200)](http://github.com/noltron000)
+[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://francescoronel.com) | [![Noltron000](https://avatars2.githubusercontent.com/u/19766927?v=3&s=200)](http://github.com/noltron000)
 :---:|:---:|
-[`fvcproductions`](http://fvcproductions.com) | [`noltron000`](http://github.com/noltron000)
+[`fvcproductions`](http://francescoronel.com) | [`noltron000`](http://github.com/noltron000)
